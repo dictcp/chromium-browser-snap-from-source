@@ -1,4 +1,4 @@
-name: chromium
+name: chromium-vaapi
 adopt-info: chromium
 summary: Chromium web browser, open-source version of Chrome
 description: |
